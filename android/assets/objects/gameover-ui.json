@@ -1,0 +1,9 @@
+{
+  ButtonStyle: {
+    replay: { down: replay, up: replay },
+    menu: { down: menu, up: menu },
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.Image: {
+    gameover: {drawable:gameover},
+  },
+}

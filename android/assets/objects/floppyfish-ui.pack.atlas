@@ -1,0 +1,40 @@
+
+floppyfish-ui.pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 119
+  size: 280, 560
+  orig: 280, 560
+  offset: 0, 0
+  index: -1
+fish
+  rotate: false
+  xy: 1, 47
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 283, 635
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+score
+  rotate: false
+  xy: 1, 1
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+rate
+  rotate: false
+  xy: 73, 82
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1

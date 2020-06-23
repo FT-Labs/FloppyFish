@@ -1,0 +1,246 @@
+
+floppyfish.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+logo
+  rotate: false
+  xy: 1, 149
+  size: 1000, 870
+  orig: 1000, 870
+  offset: 0, 0
+  index: -1
+compname
+  rotate: false
+  xy: 1, 47
+  size: 440, 100
+  orig: 440, 100
+  offset: 0, 0
+  index: -1
+sayiAlti
+  rotate: false
+  xy: 1, 1
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+sayiBes
+  rotate: false
+  xy: 443, 103
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+sayiBir
+  rotate: false
+  xy: 47, 1
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+sayiDokuz
+  rotate: false
+  xy: 443, 57
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+sayiDort
+  rotate: false
+  xy: 489, 103
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+sayiIki
+  rotate: false
+  xy: 93, 1
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+sayiSekiz
+  rotate: false
+  xy: 489, 57
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+sayiSifir
+  rotate: false
+  xy: 535, 103
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+sayiUc
+  rotate: false
+  xy: 139, 1
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+sayiYedi
+  rotate: false
+  xy: 535, 57
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+fish_gg
+  rotate: false
+  xy: 581, 112
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+fish_diving2
+  rotate: false
+  xy: 185, 17
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+fish_down
+  rotate: false
+  xy: 581, 82
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+fish_up
+  rotate: false
+  xy: 618, 119
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+fish_diving
+  rotate: false
+  xy: 222, 18
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+
+floppyfish2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+seabackground
+  rotate: false
+  xy: 1, 141
+  size: 700, 560
+  orig: 700, 560
+  offset: 0, 0
+  index: -1
+sutun4_duz(140x560)
+  rotate: false
+  xy: 703, 141
+  size: 140, 560
+  orig: 140, 560
+  offset: 0, 0
+  index: -1
+sutun4_ters(140x560)
+  rotate: false
+  xy: 845, 141
+  size: 140, 560
+  orig: 140, 560
+  offset: 0, 0
+  index: -1
+yosun1
+  rotate: false
+  xy: 987, 1
+  size: 35, 700
+  orig: 35, 700
+  offset: 0, 0
+  index: -1
+
+floppyfish3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+odun3_duz(105x560)
+  rotate: false
+  xy: 1, 1
+  size: 105, 560
+  orig: 105, 560
+  offset: 0, 0
+  index: -1
+odun3_ters(105x560)
+  rotate: false
+  xy: 108, 1
+  size: 105, 560
+  orig: 105, 560
+  offset: 0, 0
+  index: -1
+sutun3_duz(105x560)
+  rotate: false
+  xy: 215, 1
+  size: 105, 560
+  orig: 105, 560
+  offset: 0, 0
+  index: -1
+sutun3_ters(105x560)
+  rotate: false
+  xy: 322, 1
+  size: 105, 560
+  orig: 105, 560
+  offset: 0, 0
+  index: -1
+yosun2_duz
+  rotate: false
+  xy: 429, 1
+  size: 105, 560
+  orig: 105, 560
+  offset: 0, 0
+  index: -1
+yosun2_ters
+  rotate: false
+  xy: 536, 1
+  size: 105, 560
+  orig: 105, 560
+  offset: 0, 0
+  index: -1
+odun2_duz(70x560)
+  rotate: false
+  xy: 643, 1
+  size: 70, 560
+  orig: 70, 560
+  offset: 0, 0
+  index: -1
+odun2_ters(70x560)
+  rotate: false
+  xy: 715, 1
+  size: 70, 560
+  orig: 70, 560
+  offset: 0, 0
+  index: -1
+sutun2_duz(70x560)
+  rotate: false
+  xy: 787, 1
+  size: 70, 560
+  orig: 70, 560
+  offset: 0, 0
+  index: -1
+sutun2_ters(70x560)
+  rotate: false
+  xy: 859, 1
+  size: 70, 560
+  orig: 70, 560
+  offset: 0, 0
+  index: -1
+odun1
+  rotate: false
+  xy: 931, 1
+  size: 35, 560
+  orig: 35, 560
+  offset: 0, 0
+  index: -1
+sutun1
+  rotate: false
+  xy: 968, 1
+  size: 35, 560
+  orig: 35, 560
+  offset: 0, 0
+  index: -1

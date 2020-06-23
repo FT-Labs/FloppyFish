@@ -1,0 +1,26 @@
+
+gameover-ui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gameover
+  rotate: false
+  xy: 1, 50
+  size: 280, 338
+  orig: 280, 338
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 1, 1
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
+replay
+  rotate: false
+  xy: 283, 341
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
